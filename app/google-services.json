@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205323167125",
+    "project_id": "dscr-mobile-app",
+    "storage_bucket": "dscr-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205323167125:android:6fea3e7c4859070ebdc29c",
+        "android_client_info": {
+          "package_name": "com.example.dscr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205323167125-h49va85rnrbqeggogc76ht5eqbgaohi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiei6IcNbx2vzjIahA8Hs_YFl02PzRL5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205323167125-h49va85rnrbqeggogc76ht5eqbgaohi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
